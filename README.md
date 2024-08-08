@@ -26,11 +26,11 @@ This project is designed to scrape podcast data, process it, and provide recomme
     ```bash
     pip install -r requirements.txt
     ```
-4. **Download vector embeddings**
-  ```bash
-  pip install gdown
-  gdown --folder https://drive.google.com/drive/folders/1XP_eSoZ2uNW_poyMnsK9TPWHcxpbwvsg
-  ```
+4. **Download vector embeddings:**
+    ```bash
+    pip install gdown
+    gdown --folder https://drive.google.com/drive/folders/1XP_eSoZ2uNW_poyMnsK9TPWHcxpbwvsg
+    ```
 
 5. **Run the Dash application:**
     ```bash
