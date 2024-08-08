@@ -61,7 +61,6 @@ There are several modes to choose from:
 - Recommendations based on user explanations (f.e. "A podcast about scientifical approach to improve health and mood")
 
 #### Examples
-![image](https://github.com/user-attachments/assets/82843772-1212-4589-9598-ce7abe6ee7b5)
-![image](https://github.com/user-attachments/assets/15edab18-d58b-48fc-91d8-3a39a4fba039)
-![image](https://github.com/user-attachments/assets/f3d14a61-4ba1-4355-9ee3-3dee0a7dbaaf)
-![image](https://github.com/user-attachments/assets/a2e8b082-fad0-44cd-928c-9676e762139b)
+| ![Image 1](https://github.com/user-attachments/assets/82843772-1212-4589-9598-ce7abe6ee7b5) | ![Image 2](https://github.com/user-attachments/assets/15edab18-d58b-48fc-91d8-3a39a4fba039) |
+|:-:|:-:|
+| ![Image 3](https://github.com/user-attachments/assets/f3d14a61-4ba1-4355-9ee3-3dee0a7dbaaf) | ![Image 4](https://github.com/user-attachments/assets/a2e8b082-fad0-44cd-928c-9676e762139b) |
